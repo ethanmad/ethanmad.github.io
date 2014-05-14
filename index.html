@@ -49,13 +49,13 @@ Otherwise, add a bookmarklet by dragging this link,
 and click on the checkered flag that appears in your Omnibar (if you're using the Chrome extension) or click on the bookmarklet
 to start up HyperTyper. Now (once the first word of the passage is in the input box) press space to #HyperType.</p>
 
-If you're too lazy to press space 500 times, I wrote a use this bash script to press space 600 times. To use it with HyperTyper, first run HyperTyper (click on the icon or bookmarklet), run the script, then get to the input field, and watch.
-<code>#! /bin/bash<br>
-sleep 3;<br>
-for ((i=0; i < 600; i++))<br>
-do<br>
-    xte 'key space'<br>
-done</code>
+If you're too lazy to press space 500 times, I wrote a use this bash script to press space 600 times. To use it with HyperTyper, first run HyperTyper (click on the icon or bookmarklet), run the script, then get to the input field, and watch.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>#! /bin/bash<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sleep 3;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for ((i=0; i < 600; i++))<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xte 'key space'<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;done</code>
 <p>It requires a package called <a href='http://sourceforge.net/projects/xautomation/files/xautomation/'>Xautomation</a> to work. Fortunately, it's in the repositories for most distros, so you can probably install it using your package manager.</p>
 In Ubuntu: <code>$ sudo apt-get install Xautomation</code>
 <p>For other distrobutions, see the Xautomation's Sourceforge page.</p>
