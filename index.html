@@ -49,6 +49,16 @@ Otherwise, add a bookmarklet by dragging this link,
 and click on the checkered flag that appears in your Omnibar (if you're using the Chrome extension) or click on the bookmarklet
 to start up HyperTyper. Now (once the first word of the passage is in the input box) press space to #HyperType.</p>
 
+<p>If you're too lazy to press space 500 times, I wrote a use this bash script to press space 600 times:</p>
+<code>#! /bin/bash
+sleep 3;
+for ((i=0; i < 600; i++))
+do
+    xte 'key space'
+done</code>
+<p>It requires a package called <a href='http://sourceforge.net/projects/xautomation/files/xautomation/'>Xautomation</a> to work. Fortunately, it's in the repositories for most distros, so you can probably install it using your package manager.</p>
+In Ubuntu: <code>$ sudo apt-get install Xautomation</code>
+<p>For other distrobutions, see the Xautomation's Sourceforge page.</p>
 <h3>
 <a name="supported-websites" class="anchor" href="#supported-websites"><span class="octicon octicon-link"></span></a>Supported Websites</h3>
 
