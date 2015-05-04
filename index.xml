@@ -31,13 +31,15 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://openpad.github.io&#34;&gt;openpad&lt;/a&gt;: A platform for using Andoid &amp;amp; iOS devices as input devices on C++-capable devices. Built with &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/TheWashingtonRedskins/LivingPlanet&#34;&gt;LivingPlanet&lt;/a&gt;: My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;@paralin&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;@dwoldenberg1&lt;/a&gt; (GitHub usernames).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://livingplanet.paral.in/&#34;&gt;LivingPlanet&lt;/a&gt;: My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;@paralin&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;@dwoldenberg1&lt;/a&gt; (GitHub usernames).&lt;/li&gt;
 &lt;li&gt;School Java Networking Projects: &lt;a href=&#34;http://github.com/ethanmad/ChatServer&#34;&gt;ChatServer&lt;/a&gt;, &lt;a href=&#34;https://github.com/ethanmad/HTTPServer&#34;&gt;HTTPServer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt;: A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://ethanmad.com/En-Garde&#34;&gt;En Garde&lt;/a&gt;: An Android fencing scorekeeper built to be fast, pretty, and functional.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt;: A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://ethanmad.com/coo-mc&#34;&gt;Coo&lt;/a&gt;: A Minecraft escape map I built with &lt;a href=&#34;http://tom.ethanmad.com&#34;&gt;my brother Tommy&lt;/a&gt; some years ago.&lt;/li&gt;
 &lt;li&gt;Anything else on &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;my GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Current as of 2015-05-04.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -125,6 +127,47 @@
 &lt;li&gt;&lt;a href=&#34;http://www.ethanmad.com/HyperTyper&#34;&gt;HyperTyper Website&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ethanmad/HyperTyper&#34;&gt;HyperTyper on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.ethanmad.com/about/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ethanmad.com/about/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m Ethan Madison, a current high school senior at Harvard-Westlake School in Los Angeles.
+I write code, play drums, and fence in my free time.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-this-site:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;What is this site?&lt;/h2&gt;
+
+&lt;p&gt;I have a dog named Hugo, which is part of the reason I chose Hugo as my static site generator.&lt;/p&gt;
+
+&lt;p&gt;This website serves as a blog and project showcase. I&amp;rsquo;ll try to make a writeup for each project I complete and maybe make some other posts.
+We&amp;rsquo;ll see.&lt;/p&gt;
+
+&lt;h2 id=&#34;projects:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;p&gt;See &lt;a href=&#34;http://www.ethanmad.com/project-index&#34;&gt;Project Index&lt;/a&gt; for a list of my projects.&lt;/p&gt;
+
+&lt;h2 id=&#34;connect:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Connect&lt;/h2&gt;
+
+&lt;p&gt;You can contact me or find me through the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hello@ethanmad.com&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://google.com/+ethanmad&#34;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ethanmad&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_ethanmad&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/ethanmadison&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reddit.com/u/ethanmad&#34;&gt;reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/users/2264460/ethanmad&#34;&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ethanmad&#34;&gt;Soundcloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If I haven&amp;rsquo;t listed a service you want to connect with me on, search for &lt;code&gt;ethanmad&lt;/code&gt; and you may find me.&lt;/p&gt;
 </description>
     </item>
     
