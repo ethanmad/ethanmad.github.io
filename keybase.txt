@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/ethanmad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.ethanmad.com
+  * I am ethanmad (https://keybase.io/ethanmad) on keybase.
+  * I have a public key with fingerprint 924C 82CC 9285 FC65 59F9  1117 E0F5 7A43 64D0 4081
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "924c82cc9285fc6559f91117e0f57a4364d04081",
+            "host": "keybase.io",
+            "key_id": "e0f57a4364d04081",
+            "kid": "0101ddc237d95340e9a0bc3c3758d6144afa7ed2e2ca1d5dbd7a3d7238c661af78b80a",
+            "uid": "2a83929453ec5b05ae8e3fb6d2bbb719",
+            "username": "ethanmad"
+        },
+        "revoke": {
+            "sig_ids": [
+                "48aa8ad7b1011f17810417cf2642087f0fdb268add50dace845c4c9c832b078a0f"
+            ]
+        },
+        "service": {
+            "hostname": "www.ethanmad.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438306789,
+    "expire_in": 157680000,
+    "prev": "3e559fd43f4a7fff250b5dca001334b71e12ecd02afccf19474cce4b2af284e8",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMN0AnicbZJrUFVVFMfv9YHBZIEGhI8cjygaiOf9QGQIBAdixoGMMQFhn733gePl
+3nPvuZfXBTKFUkdj0IAZMjBwMmNEwDJneggoViMzBGmRmKFEAxRMZVEjDdI5jH5r
+f9mz1/6v3/rvtXbP0oUWP+vdaW886o89YO3tbi6wvPzJwM+lhKyhEiKqlLDh+U1R
+HblYd+qqw0NEERLNQpGGUKJFToE8x0mKRFGUgEmFEwDL8CwiWVKkiAgiT3ObGQZG
+Bm4cqWpGzDhkq8iI/o/eNn9BUiSFEKQZAUkcw5JYAqQMGcgInIh4imWBAgSMaExD
+QCEOyUgADBJoRoQ8TwFFEGWRBAauYB5HA5GRaInlGAw5meQAFjGjyDyiZVkWKMkU
+urHuAHZsuvLkAYcdIKI8gtBxoWbDZgfcaq5h2k1EZRCsCIAIkCAbLimFEkSKZCkB
+KjTP0qQoKKSCZJo3FIgjEYBYZDnIQgmKDC2TgghIhcgy2EbFQhXOw80uPapeVFQU
++dhBJNTshjenrnk0qOUbt3kej9MdZTrzlDjn5VjOfgTKllUHMuZkZBRi3a1qDiKK
+MpTQo5pkimVEhuQFUYogcLFT1XG2aio4gRdJY5l1cKGBZLA5UMQyCgsERVFojpQ5
+BAFJUgzDGv3CFI0hImmgQKhQEiuwEGJWNs60yGKRMJ/mcmgGmzZ8glyDaXTPATwF
+OibKr3RnLrJY/Sw+ixeYX83i5+v/+APOrPG31NY/Vd18qyLPmzSclHoWJ88e2XSx
+Qd68Tn/z26zKHfoH6QOVrTX1/bVHRgPp6WHvUHvXk425q67bVs42o9DgM1vI83E3
+xxdHH3CuuBG00TXkSev4MPOVG79PP8hZXbbO0R9brdNLrgU8eKZ+zGeuO8wF+paR
+vnLt8hUngl5dX2LtD7vfS4wEvFQXdrYx+eT+ni8nU07FjDxbs+eby/GthRNzWy9R
+nkCXe9uufX2bum79tJpwvRW5rCtuGEwl3Cvz2+EMcb3//R9Xo4mmreDyocmTa+T8
+DOHXLD3nB6kPaLeXE1+lraeDpS3tNnpycC8bdPyqjbm37+7X/PXj3oyp6vgkQlz7
+WYlVhTlBe+ciP2/pOAY/ze/xpH88M3lng3cztb+Brnz9hYrkvysOP89JazMiuspL
+Mi2vqYN/vpsV+o8PCPpITffV3Y1jecG7ubiZlpiythNNODXEv6A0pjjRntKNmuu0
+h9f+tbecS1kV3qsdnWotHmS9iS8mn3qbO9j4zvgbTyQsFUZDEg9mP6xfpFlDUM19
++19n3L/9MjZx+kL10+c3DBTD/GLv+OCdsIixxgtHq+oTFky0wfCdN1NDf9y1u60z
+dmxhXXgTuJKFO7cLHTU7A2PtS9Iu8ns2XvI/FNB0+ov2zue+K+hvSqgaTUqLnh0/
+J1Udu92QkLXdtq2aWDlEvjfyH9H/vyo=
+=/+FL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ethanmad
+
+==================================================================
