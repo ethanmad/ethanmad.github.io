@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ethan Madison</title>
-    <link>http://www.ethanmad.com/post/</link>
+    <link>https://www.ethanmad.com/post/</link>
     <description>Recent content in Posts on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ethan Madison 2015</copyright>
     <lastBuildDate>Fri, 01 May 2015 21:04:58 -0800</lastBuildDate>
-    <atom:link href="http://www.ethanmad.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ethanmad.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HyperTyper</title>
-      <link>http://www.ethanmad.com/post/HyperTyper/</link>
+      <link>https://www.ethanmad.com/post/HyperTyper/</link>
       <pubDate>Fri, 01 May 2015 21:04:58 -0800</pubDate>
       
-      <guid>http://www.ethanmad.com/post/HyperTyper/</guid>
+      <guid>https://www.ethanmad.com/post/HyperTyper/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;

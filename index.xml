@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethan Madison</title>
-    <link>http://www.ethanmad.com/</link>
+    <link>https://www.ethanmad.com/</link>
     <description>Recent content on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ethan Madison 2015</copyright>
     <lastBuildDate>Sun, 03 May 2015 21:43:24 -0700</lastBuildDate>
-    <atom:link href="http://www.ethanmad.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ethanmad.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Project Index</title>
-      <link>http://www.ethanmad.com/project-index/</link>
+      <link>https://www.ethanmad.com/project-index/</link>
       <pubDate>Sun, 03 May 2015 21:43:24 -0700</pubDate>
       
-      <guid>http://www.ethanmad.com/project-index/</guid>
+      <guid>https://www.ethanmad.com/project-index/</guid>
       <description>
 
 &lt;h2 id=&#34;current:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Current&lt;/h2&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>HyperTyper</title>
-      <link>http://www.ethanmad.com/post/HyperTyper/</link>
+      <link>https://www.ethanmad.com/post/HyperTyper/</link>
       <pubDate>Fri, 01 May 2015 21:04:58 -0800</pubDate>
       
-      <guid>http://www.ethanmad.com/post/HyperTyper/</guid>
+      <guid>https://www.ethanmad.com/post/HyperTyper/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;
@@ -132,10 +132,10 @@
     
     <item>
       <title>About Me</title>
-      <link>http://www.ethanmad.com/about/</link>
+      <link>https://www.ethanmad.com/about/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ethanmad.com/about/</guid>
+      <guid>https://www.ethanmad.com/about/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;m Ethan Madison, a current high school senior at Harvard-Westlake School in Los Angeles.
@@ -150,7 +150,7 @@ We&amp;rsquo;ll see.&lt;/p&gt;
 
 &lt;h2 id=&#34;projects:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Projects&lt;/h2&gt;
 
-&lt;p&gt;See &lt;a href=&#34;http://www.ethanmad.com/project-index&#34;&gt;Project Index&lt;/a&gt; for a list of my projects.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://www.ethanmad.com/project-index&#34;&gt;Project Index&lt;/a&gt; for a list of my projects.&lt;/p&gt;
 
 &lt;h2 id=&#34;connect:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Connect&lt;/h2&gt;
 
