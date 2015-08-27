@@ -1,56 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ethan Madison</title>
-    <link>https://www.ethanmad.com/post/</link>
-    <description>Recent content in Posts on Ethan Madison</description>
+    <title>Programming on Ethan Madison</title>
+    <link>https://www.ethanmad.com/tags/programming/</link>
+    <description>Recent content in Programming on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ethan Madison 2015</copyright>
-    <lastBuildDate>Thu, 27 Aug 2015 00:28:36 -0700</lastBuildDate>
-    <atom:link href="https://www.ethanmad.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 May 2015 21:43:24 -0700</lastBuildDate>
+    <atom:link href="https://www.ethanmad.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Playing Drums on Record</title>
-      <link>https://www.ethanmad.com/post/drum-recording/</link>
-      <pubDate>Thu, 27 Aug 2015 00:28:36 -0700</pubDate>
+      <title>Project Index</title>
+      <link>https://www.ethanmad.com/project-index/</link>
+      <pubDate>Sun, 03 May 2015 21:43:24 -0700</pubDate>
       
-      <guid>https://www.ethanmad.com/post/drum-recording/</guid>
+      <guid>https://www.ethanmad.com/project-index/</guid>
       <description>
 
-&lt;p&gt;&lt;em&gt;My magnum opus in drumming: three mastered tracks from my recording sessions with Marco Moir. See below for the songs.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;current:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Current&lt;/h2&gt;
 
-&lt;h1 id=&#34;backstory:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Backstory&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ethanmad.com&#34;&gt;This site&lt;/a&gt;: I&amp;rsquo;m still working on adding content to this site and developing &lt;a href=&#34;https://github.com/keichi/vienna&#34;&gt;its theme&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ethanmad/pia-tools&#34;&gt;pia-tools&lt;/a&gt;: A tool for more easily using Private Internet Access VPN services on SystemD+Linux systems (especially Arch Linux). I&amp;rsquo;ve taken over maintainership of the project (first package I&amp;rsquo;ve put on the AUR!).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hwcomputerscience/ihw-android&#34;&gt;iHW-Android&lt;/a&gt;: A schedule app for Harvard-Westlake. I&amp;rsquo;m the 2014-15 developer and am almost finished with my AppCompat redesign.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;In fourth grade, I decided I was done playing piano and wanted to pick up a new instrument.
-I wanted to play something cool; an instrument I could join a band with.
-My dad played drums in his youth and we had a drum set in the house, so I was drawn towards the drums.
-I joined my elementary school&amp;rsquo;s orchestral music program and began playing snare drum.&lt;/p&gt;
+&lt;h2 id=&#34;past:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Past&lt;/h2&gt;
 
-&lt;p&gt;A couple years later, I got more serious about drumming and got a private teacher.
-That year, I played drum set in a band with some friends at one or two school concerts and continued playing in the school&amp;rsquo;s orchestra.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openpad.github.io&#34;&gt;openpad&lt;/a&gt; (Fall/Winter 2014): A platform for using Andoid &amp;amp; iOS devices as input devices on C++-capable devices. Built with &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://livingplanet.paral.in/&#34;&gt;LivingPlanet&lt;/a&gt; (December 2014): My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;@paralin&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;@dwoldenberg1&lt;/a&gt; (GitHub usernames).&lt;/li&gt;
+&lt;li&gt;HW Java networking projects: &lt;a href=&#34;http://github.com/ethanmad/ChatServer&#34;&gt;ChatServer&lt;/a&gt;, &lt;a href=&#34;https://github.com/ethanmad/HTTPServer&#34;&gt;HTTPServer&lt;/a&gt; (Fall 2014)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/En-Garde&#34;&gt;En Garde&lt;/a&gt; (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt; (Spring 2014): A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/coo-mc&#34;&gt;Coo&lt;/a&gt;: A Minecraft escape map I built with &lt;a href=&#34;http://tom.ethanmad.com&#34;&gt;my brother Tommy&lt;/a&gt; some years ago.&lt;/li&gt;
+&lt;li&gt;Anything else on &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;my GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;At Harvard-Westlake, I continued playing in the orchestra and was the main drummer during the symphony&amp;rsquo;s back-to-back Heritage Festival Gold medals (we competed in Anaheim and Chicago&amp;rsquo;s renowned &lt;a href=&#34;https://en.wikipedia.org/wiki/Symphony_Center&#34;&gt;Orchestra Hall&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;In tenth grade, I dropped classical music in favor of jazz; a genre of music I &lt;em&gt;actually&lt;/em&gt; enjoyed!
-I joined the jazz program at school and participated in the Rhythm Section and Jazz Ensemble through my senior year.
-Playing drum set daily allowed me to improve over those three years and got me to the point where I can sit and just play with most music.&lt;/p&gt;
-
-&lt;h1 id=&#34;recording:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Recording&lt;/h1&gt;
-
-&lt;p&gt;This summer, with my teacher and mentor Ray Mehlbaum, I&amp;rsquo;ve been working on prerparing a selection of songs that represent my musical taste and drumming style that I could record at the end of summer.
-I picked three songs from long before my time; one blues, one rock, and one jazz fusion; each featuring amazing guitarists and drummers: &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Red_House_(song)&#34;&gt;Red House&lt;/a&gt;&amp;rdquo; (Jimi Hendrix), &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sunshine_of_Your_Love&#34;&gt;Sunshine of Your Love&lt;/a&gt;&amp;rdquo; (Cream), &amp;ldquo;&lt;a href=&#34;http://www.amazon.com/Freeway-Jam/dp/B00136O3J4&#34;&gt;Freeway Jam&lt;/a&gt;&amp;rdquo; (Jeff Beck).
-I played drums on and Marco Moir played guitar, bass, and keyboard on; sang; and mixed the following tracks.&lt;/p&gt;
-
-&lt;h1 id=&#34;tracks:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Tracks&lt;/h1&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221074184&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221074548&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221073204&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&#34;thanks:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Thanks&lt;/h1&gt;
-
-&lt;p&gt;Special thank you to my teacher, inspirator, and friend Ray Mehlbaum for helping me prepare and arranging the session and to Marco Moir, my amazingly talented partner and producer who worked tirelessly to get these tracks they way they are..&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Current as of 2015-08-27.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,58 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Ethan Madison</title>
-    <link>https://www.ethanmad.com/post/</link>
-    <description>Recent content in Posts on Ethan Madison</description>
+    <title>Javascript on Ethan Madison</title>
+    <link>https://www.ethanmad.com/tags/javascript/</link>
+    <description>Recent content in Javascript on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ethan Madison 2015</copyright>
-    <lastBuildDate>Thu, 27 Aug 2015 00:28:36 -0700</lastBuildDate>
-    <atom:link href="https://www.ethanmad.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Playing Drums on Record</title>
-      <link>https://www.ethanmad.com/post/drum-recording/</link>
-      <pubDate>Thu, 27 Aug 2015 00:28:36 -0700</pubDate>
-      
-      <guid>https://www.ethanmad.com/post/drum-recording/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;My magnum opus in drumming: three mastered tracks from my recording sessions with Marco Moir. See below for the songs.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;backstory:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Backstory&lt;/h1&gt;
-
-&lt;p&gt;In fourth grade, I decided I was done playing piano and wanted to pick up a new instrument.
-I wanted to play something cool; an instrument I could join a band with.
-My dad played drums in his youth and we had a drum set in the house, so I was drawn towards the drums.
-I joined my elementary school&amp;rsquo;s orchestral music program and began playing snare drum.&lt;/p&gt;
-
-&lt;p&gt;A couple years later, I got more serious about drumming and got a private teacher.
-That year, I played drum set in a band with some friends at one or two school concerts and continued playing in the school&amp;rsquo;s orchestra.&lt;/p&gt;
-
-&lt;p&gt;At Harvard-Westlake, I continued playing in the orchestra and was the main drummer during the symphony&amp;rsquo;s back-to-back Heritage Festival Gold medals (we competed in Anaheim and Chicago&amp;rsquo;s renowned &lt;a href=&#34;https://en.wikipedia.org/wiki/Symphony_Center&#34;&gt;Orchestra Hall&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;In tenth grade, I dropped classical music in favor of jazz; a genre of music I &lt;em&gt;actually&lt;/em&gt; enjoyed!
-I joined the jazz program at school and participated in the Rhythm Section and Jazz Ensemble through my senior year.
-Playing drum set daily allowed me to improve over those three years and got me to the point where I can sit and just play with most music.&lt;/p&gt;
-
-&lt;h1 id=&#34;recording:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Recording&lt;/h1&gt;
-
-&lt;p&gt;This summer, with my teacher and mentor Ray Mehlbaum, I&amp;rsquo;ve been working on prerparing a selection of songs that represent my musical taste and drumming style that I could record at the end of summer.
-I picked three songs from long before my time; one blues, one rock, and one jazz fusion; each featuring amazing guitarists and drummers: &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Red_House_(song)&#34;&gt;Red House&lt;/a&gt;&amp;rdquo; (Jimi Hendrix), &amp;ldquo;&lt;a href=&#34;https://en.wikipedia.org/wiki/Sunshine_of_Your_Love&#34;&gt;Sunshine of Your Love&lt;/a&gt;&amp;rdquo; (Cream), &amp;ldquo;&lt;a href=&#34;http://www.amazon.com/Freeway-Jam/dp/B00136O3J4&#34;&gt;Freeway Jam&lt;/a&gt;&amp;rdquo; (Jeff Beck).
-I played drums on and Marco Moir played guitar, bass, and keyboard on; sang; and mixed the following tracks.&lt;/p&gt;
-
-&lt;h1 id=&#34;tracks:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Tracks&lt;/h1&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221074184&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221074548&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221073204&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&#34;thanks:3b74f35c54248ef24b7b5cdef17d63ec&#34;&gt;Thanks&lt;/h1&gt;
-
-&lt;p&gt;Special thank you to my teacher, inspirator, and friend Ray Mehlbaum for helping me prepare and arranging the session and to Marco Moir, my amazingly talented partner and producer who worked tirelessly to get these tracks they way they are..&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 01 May 2015 21:04:58 -0800</lastBuildDate>
+    <atom:link href="https://www.ethanmad.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HyperTyper</title>
