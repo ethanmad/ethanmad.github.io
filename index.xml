@@ -181,15 +181,14 @@ I played drums on and Marco Moir played guitar, bass, and keyboard on; sang; and
       <guid>https://www.ethanmad.com/about/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;m Ethan Madison, a current high school senior at Harvard-Westlake School in Los Angeles.
+&lt;p&gt;I&amp;rsquo;m Ethan Madison; I&amp;rsquo;m from Los Angeles and am a freshan at the University of Michigan.
 I write code, play drums, and fence in my free time.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-is-this-site:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;What is this site?&lt;/h2&gt;
 
-&lt;p&gt;I have a dog named Hugo, which is part of the reason I chose Hugo as my static site generator.&lt;/p&gt;
+&lt;p&gt;This website serves as a blog and project showcase. I plan on writing up post-mortems and summaries after completing a project in addition to normal blog posts.&lt;/p&gt;
 
-&lt;p&gt;This website serves as a blog and project showcase. I&amp;rsquo;ll try to make a writeup for each project I complete and maybe make some other posts.
-We&amp;rsquo;ll see.&lt;/p&gt;
+&lt;p&gt;The site is powered by &lt;a href=&#34;https://www.gohugo.io&#34;&gt;Hugo&lt;/a&gt;, which is coincidentally the name of &lt;a href=&#34;https://goo.gl/photos/gBoKEjAPGKBhmByP9&#34; title=&#34;Hugo the browser history inspector!&#34;&gt;my dog&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;projects:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Projects&lt;/h2&gt;
 
@@ -208,6 +207,7 @@ We&amp;rsquo;ll see.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://reddit.com/u/ethanmad&#34;&gt;reddit&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/users/2264460/ethanmad&#34;&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ethanmad&#34;&gt;Soundcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keybase.io/ethanmad&#34; title=&#34;Find my PGP keys here&#34;&gt;Keybase&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If I haven&amp;rsquo;t listed a service you want to connect with me on, search for &lt;code&gt;ethanmad&lt;/code&gt; and you may find me.&lt;/p&gt;

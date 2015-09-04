@@ -1,11 +1,3 @@
-/* Custom Styling */
-a, .text-primary {
-    {{ with .Site.Params.themecolor }}
-    color: {{ . }};
-    {{ end }}
-}
-
-
 main {
     max-width: 750px;
     word-wrap: break-word;
@@ -294,5 +286,4 @@ article section img {
     height: auto;
     margin: 13px auto;
 }
-
 
