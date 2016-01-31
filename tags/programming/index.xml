@@ -6,40 +6,9 @@
     <description>Recent content in Programming on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Ethan Madison 2015</copyright>
-    <lastBuildDate>Sun, 03 May 2015 21:43:24 -0700</lastBuildDate>
+    <copyright>&amp;copy; Ethan Madison 2016</copyright>
+    <lastBuildDate>Fri, 01 May 2015 21:04:58 -0800</lastBuildDate>
     <atom:link href="https://www.ethanmad.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Project Index</title>
-      <link>https://www.ethanmad.com/project-index/</link>
-      <pubDate>Sun, 03 May 2015 21:43:24 -0700</pubDate>
-      
-      <guid>https://www.ethanmad.com/project-index/</guid>
-      <description>
-
-&lt;h2 id=&#34;current:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Current&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ethanmad.com&#34;&gt;This site&lt;/a&gt;: I&amp;rsquo;m still working on adding content to this site and developing &lt;a href=&#34;https://github.com/keichi/vienna&#34;&gt;its theme&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;past:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Past&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hwcomputerscience/ihw-android&#34;&gt;iHW-Android&lt;/a&gt; (Fall 2014 - Spring 2015): A schedule app for Harvard-Westlake. I&amp;rsquo;m the 2014-15 developer and am almost finished with my AppCompat redesign.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://livingplanet.paral.in/&#34;&gt;LivingPlanet&lt;/a&gt; (December 2014): My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;@paralin&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;@dwoldenberg1&lt;/a&gt; (GitHub usernames).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://openpad.github.io&#34;&gt;openpad&lt;/a&gt; (Fall 2014): A platform for using Andoid &amp;amp; iOS devices as input devices on C++-capable devices. Built with &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;HW Java networking projects: &lt;a href=&#34;http://github.com/ethanmad/ChatServer&#34;&gt;ChatServer&lt;/a&gt;, &lt;a href=&#34;https://github.com/ethanmad/HTTPServer&#34;&gt;HTTPServer&lt;/a&gt; (Fall 2014)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/En-Garde&#34;&gt;En Garde&lt;/a&gt; (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt; (Spring 2014): A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/coo-mc&#34;&gt;Coo&lt;/a&gt;: A Minecraft escape map I built with &lt;a href=&#34;http://tom.ethanmad.com&#34;&gt;my brother Tommy&lt;/a&gt; some years ago.&lt;/li&gt;
-&lt;li&gt;Anything else on &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;my GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Current as of 2015-08-27.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>HyperTyper</title>
@@ -49,8 +18,7 @@
       <guid>https://www.ethanmad.com/post/HyperTyper/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;HyperTyper is a tool to help those who can&amp;rsquo;t type compete in typing competitions, like &lt;a href=&#34;http://typeracer.com/&#34; title=&#34;Real-time racing against real people.&#34;&gt;TypeRacer&lt;/a&gt; and &lt;a href=&#34;http://10fastfingers.com/&#34; title=&#34;Testing and competitions with daily leaderboards.&#34;&gt;10FastFingers&lt;/a&gt;.
   I aim to reduce discrimination against non- or transtypers from heterotypers by eliminating the social construct that is the keyboard. Switching layouts or not knowing how to type should not mean you have to repeatedly feel the pain of losing.
@@ -125,6 +93,38 @@
 &lt;li&gt;&lt;a href=&#34;http://www.ethanmad.com/HyperTyper&#34;&gt;HyperTyper Website&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ethanmad/HyperTyper&#34;&gt;HyperTyper on GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.ethanmad.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ethanmad.com/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;current:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Current&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ethanmad.com&#34;&gt;This site&lt;/a&gt;: I&amp;rsquo;m still working on adding content to this site and developing &lt;a href=&#34;https://github.com/ethanmad/vienna&#34;&gt;its theme&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;past:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Past&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TheWashingtonRedskins/Hackatron&#34;&gt;Hackatron&lt;/a&gt; (Septermber 2015): Real-time in person help and mentorship tool built for hackathons, offices, and schools. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;Christian Stewart&lt;/a&gt; at MHacks 6. &lt;a href=&#34;https://www.youtube.com/watch?v=ZvAWzwYOl4o&#34;&gt;Screencast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hwcomputerscience/ihw-android&#34;&gt;iHW-Android&lt;/a&gt; (Fall 2014 - Spring 2015): A schedule app for Harvard-Westlake. I&amp;rsquo;m the 2014-15 developer and am almost finished with my AppCompat redesign.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TheWashingtonRedskins/LivingPlanet&#34;&gt;LivingPlanet&lt;/a&gt; (December 2014): My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;Christian Stewart&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;James Lennon&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;Jake Saferstein&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;David Woldenberg&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openpad.github.io&#34;&gt;openpad&lt;/a&gt; (Fall 2014): A platform for using Andoid &amp;amp; iOS devices as input devices on C++-capable devices. Built with &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;HW Java networking projects: &lt;a href=&#34;http://github.com/ethanmad/ChatServer&#34;&gt;ChatServer&lt;/a&gt;, &lt;a href=&#34;https://github.com/ethanmad/HTTPServer&#34;&gt;HTTPServer&lt;/a&gt; (Fall 2014)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/En-Garde&#34;&gt;En Garde&lt;/a&gt; (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/post/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt; (Spring 2014): A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/coo-mc&#34;&gt;Coo&lt;/a&gt;: A Minecraft escape map I built with &lt;a href=&#34;http://tom.ethanmad.com&#34;&gt;my brother Tommy&lt;/a&gt; some years ago.&lt;/li&gt;
+&lt;li&gt;Anything else on &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;my GitHub&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Current as of 2016-01-30.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

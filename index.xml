@@ -6,9 +6,41 @@
     <description>Recent content on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Ethan Madison 2015</copyright>
-    <lastBuildDate>Thu, 27 Aug 2015 00:28:36 -0700</lastBuildDate>
+    <copyright>&amp;copy; Ethan Madison 2016</copyright>
+    <lastBuildDate>Sat, 30 Jan 2016 17:29:21 -0500</lastBuildDate>
     <atom:link href="https://www.ethanmad.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Earning my &#39;A&#39; in Epee</title>
+      <link>https://www.ethanmad.com/post/A-in-Epee/</link>
+      <pubDate>Sat, 30 Jan 2016 17:29:21 -0500</pubDate>
+      
+      <guid>https://www.ethanmad.com/post/A-in-Epee/</guid>
+      <description>&lt;p&gt;I started fencing epee competitively in the Spring of 2012 at LAIFC, where I was very fortunate to train with some of the best fencers and coaches in the world.
+Through many intense practices and about forty tournaments, I progressed very quickly.
+The U.S. Fencing Association uses a rating system where beginners are unrated and more experienced fencers are rated from E to A, where A is the highest rating.
+Within a year of training, I earned an E and a C.
+A year later, I earned a B at a tournament at my club.&lt;/p&gt;
+
+&lt;p&gt;I ended up not fencing during my senior year of high school because of school and other obligations taking up my time.&lt;/p&gt;
+
+&lt;p&gt;Once I got to Michigan, I decided I had to start fencing again.
+Fortunately for me, the University of Michigan Fencing Club is one of the top college clubs in the country, so I can practice regularly and compete at a high level.
+Because of this, I&amp;rsquo;ve managed to maintain much of my skill and perhaps even improve.&lt;/p&gt;
+
+&lt;p&gt;Last weekend, I competed at the &lt;a href=&#34;https://askfred.net/Results/results.php?tournament_id=30100&#34;&gt;Todd Curn Memorial tournament&lt;/a&gt; hosted by Royal Arts Fencing Academy in Columbus, OH; won the gold medal; and finally earned my &amp;lsquo;A&amp;rsquo; after coming so close so many times! Below is a playlist of YouTube videos with my final three elimination bouts (starting with the best bout&amp;ndash;the semifinal).&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/X6ZHHLDck30?list=PLwfXW8DKOrg1cLm2BXwatRqPhEH5_jcGH&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;My last two bouts were against &amp;lsquo;A&amp;rsquo;s and were generally regarded as some of the best fencers in the area.
+In particular, my semifinal bout was one of the hardest fights I&amp;rsquo;ve ever had.
+I was at one point down 9-13 (these bouts go to 15) and had to outscore my opponent 6-1 to win.&lt;/p&gt;
+
+&lt;p&gt;The win was easily one of the most gratifying experiences in my life&amp;ndash;I&amp;rsquo;ve been on the other side enough times that finally being on the winning side felt beyond amazing.&lt;/p&gt;
+
+&lt;p&gt;Now that I&amp;rsquo;ve now achieved my long-standing goal of earning an &amp;lsquo;A&amp;rsquo;, I can focus on crushing our little brothers at MSU in school tournaments.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Playing Drums on Record</title>
@@ -55,37 +87,6 @@ I played drums on and Marco Moir played guitar, bass, and keyboard on; sang; and
     </item>
     
     <item>
-      <title>Project Index</title>
-      <link>https://www.ethanmad.com/project-index/</link>
-      <pubDate>Sun, 03 May 2015 21:43:24 -0700</pubDate>
-      
-      <guid>https://www.ethanmad.com/project-index/</guid>
-      <description>
-
-&lt;h2 id=&#34;current:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Current&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ethanmad.com&#34;&gt;This site&lt;/a&gt;: I&amp;rsquo;m still working on adding content to this site and developing &lt;a href=&#34;https://github.com/keichi/vienna&#34;&gt;its theme&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;past:57dbc0f911b56760fb6c46556ef7cec9&#34;&gt;Past&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hwcomputerscience/ihw-android&#34;&gt;iHW-Android&lt;/a&gt; (Fall 2014 - Spring 2015): A schedule app for Harvard-Westlake. I&amp;rsquo;m the 2014-15 developer and am almost finished with my AppCompat redesign.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://livingplanet.paral.in/&#34;&gt;LivingPlanet&lt;/a&gt; (December 2014): My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;@paralin&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;@dwoldenberg1&lt;/a&gt; (GitHub usernames).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://openpad.github.io&#34;&gt;openpad&lt;/a&gt; (Fall 2014): A platform for using Andoid &amp;amp; iOS devices as input devices on C++-capable devices. Built with &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;HW Java networking projects: &lt;a href=&#34;http://github.com/ethanmad/ChatServer&#34;&gt;ChatServer&lt;/a&gt;, &lt;a href=&#34;https://github.com/ethanmad/HTTPServer&#34;&gt;HTTPServer&lt;/a&gt; (Fall 2014)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/En-Garde&#34;&gt;En Garde&lt;/a&gt; (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt; (Spring 2014): A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/coo-mc&#34;&gt;Coo&lt;/a&gt;: A Minecraft escape map I built with &lt;a href=&#34;http://tom.ethanmad.com&#34;&gt;my brother Tommy&lt;/a&gt; some years ago.&lt;/li&gt;
-&lt;li&gt;Anything else on &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;my GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Current as of 2015-08-27.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>HyperTyper</title>
       <link>https://www.ethanmad.com/post/HyperTyper/</link>
       <pubDate>Fri, 01 May 2015 21:04:58 -0800</pubDate>
@@ -93,8 +94,7 @@ I played drums on and Marco Moir played guitar, bass, and keyboard on; sang; and
       <guid>https://www.ethanmad.com/post/HyperTyper/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;HyperTyper is a tool to help those who can&amp;rsquo;t type compete in typing competitions, like &lt;a href=&#34;http://typeracer.com/&#34; title=&#34;Real-time racing against real people.&#34;&gt;TypeRacer&lt;/a&gt; and &lt;a href=&#34;http://10fastfingers.com/&#34; title=&#34;Testing and competitions with daily leaderboards.&#34;&gt;10FastFingers&lt;/a&gt;.
   I aim to reduce discrimination against non- or transtypers from heterotypers by eliminating the social construct that is the keyboard. Switching layouts or not knowing how to type should not mean you have to repeatedly feel the pain of losing.
@@ -175,41 +175,74 @@ I played drums on and Marco Moir played guitar, bass, and keyboard on; sang; and
     <item>
       <title>About Me</title>
       <link>https://www.ethanmad.com/about/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.ethanmad.com/about/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;m Ethan Madison; I&amp;rsquo;m from Los Angeles and am a freshan at the University of Michigan.
-I write code, play drums, and fence in my free time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Ethan Madison.
+I was born and raised in Los Angeles and am currently a freshman at the University of Michigan&amp;ndash;Ann Arbor.
+I &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;write code&lt;/a&gt;, &lt;a href=&#34;https://www.ethanmad.com/post/drum-recording&#34;&gt;play drums&lt;/a&gt;, and &lt;a href=&#34;https://www.ethanmad.com/post/A-in-Epee&#34;&gt;fence&lt;/a&gt; for fun.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-is-this-site:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;What is this site?&lt;/h2&gt;
 
 &lt;p&gt;This website serves as a blog and project showcase. I plan on writing up post-mortems and summaries after completing a project in addition to normal blog posts.&lt;/p&gt;
 
-&lt;p&gt;The site is powered by &lt;a href=&#34;https://www.gohugo.io&#34;&gt;Hugo&lt;/a&gt;, which is coincidentally the name of &lt;a href=&#34;https://goo.gl/photos/gBoKEjAPGKBhmByP9&#34; title=&#34;Hugo the browser history inspector!&#34;&gt;my dog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The site is powered by &lt;a href=&#34;https://www.gohugo.io&#34;&gt;Hugo&lt;/a&gt;, which is coincidentally also the name of &lt;a href=&#34;https://lh3.googleusercontent.com/Wo1P8Pck7Y-dUEF0QkHxT91OYTKuYaBIJ5gqdju4SWjlclvOJVFta-0loSQ6XO3oP6CXQzCsMhk2wJ6Res98ckRn0uz47In18vWXYe2qd0RAZW6AzBxTHO8BkoIconyuW4MnsxQjkjqsDmHEjzdkSuMId2S0V2XNOdIf8vnNb3bLKg4giRTAlQPB4lTtj_gebBro4KZ5nEHKroI3MlJL2x4H6cQ2j7-ukLeHoCjmhOzZiPy439y2jmvi5pygugxAFjw7iER7Qv8OdxtOPVwX56n9fpptnGZpdTT1HIQSNXoF47Vb9Co80uEH1GlaEh-tpzY9CrAXmIJYgoxXJtn-0eRkbcEOtU-toi8byQHq5pXbmMgcZk70rXw91qcbqahimJq7_nRYqWE-JTnYHhyqbp38KtlpshpjYY55V2rT-GEyyUYNMpM90xJq1kYMP35ua7r86KcF5NUpIU0UW8G-Y6PHIlRDvLP9TyD79XB13GMMlP9UPx1p9GDBzeyyD58k1fnPddPoLXCJDx3pBleaK1skhA2wQgBmA9llAEjSFec6V83RYdFpi8n5FGMfVLXRRQV8=s1278-no&#34; title=&#34;A picture of him inspecting my browser history.&#34;&gt;my dog&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;projects:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Projects&lt;/h2&gt;
 
-&lt;p&gt;See &lt;a href=&#34;https://www.ethanmad.com/project-index&#34;&gt;Project Index&lt;/a&gt; for a list of my projects.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://www.ethanmad.com/projects&#34;&gt;Projects&lt;/a&gt; for a list of my projects.&lt;/p&gt;
 
 &lt;h2 id=&#34;connect:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Connect&lt;/h2&gt;
 
 &lt;p&gt;You can contact me or find me through the following:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:hello@ethanmad.com&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hello@ethanmad.com&#34; title=&#34;The best way to reach me.&#34;&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://google.com/+ethanmad&#34;&gt;Google&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ethanmad&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/_ethanmad&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/_ethanmad&#34; title=&#34;Not really used, but here it is.&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/ethanmadison&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://reddit.com/u/ethanmad&#34;&gt;reddit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/users/2264460/ethanmad&#34;&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ethanmad&#34;&gt;Soundcloud&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://keybase.io/ethanmad&#34; title=&#34;Find my PGP keys here&#34;&gt;Keybase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reddit.com/u/ethanmad&#34; title=&#34;I mostly lurk.&#34;&gt;reddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/users/2264460/ethanmad&#34; title=&#34;I _clearly_ have no idea what I&#39;m doing.&#34;&gt;StackOverflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/ethanmad&#34; title=&#34;Where I drop my tracks and share my friends&#39;.&#34;&gt;Soundcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keybase.io/ethanmad&#34; title=&#34;Find my PGP keys here.&#34;&gt;Keybase&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;If I haven&amp;rsquo;t listed a service you want to connect with me on, search for &lt;code&gt;ethanmad&lt;/code&gt; and you may find me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.ethanmad.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ethanmad.com/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;current:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Current&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ethanmad.com&#34;&gt;This site&lt;/a&gt;: I&amp;rsquo;m still working on adding content to this site and developing &lt;a href=&#34;https://github.com/ethanmad/vienna&#34;&gt;its theme&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;past:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;Past&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TheWashingtonRedskins/Hackatron&#34;&gt;Hackatron&lt;/a&gt; (Septermber 2015): Real-time in person help and mentorship tool built for hackathons, offices, and schools. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;Christian Stewart&lt;/a&gt; at MHacks 6. &lt;a href=&#34;https://www.youtube.com/watch?v=ZvAWzwYOl4o&#34;&gt;Screencast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hwcomputerscience/ihw-android&#34;&gt;iHW-Android&lt;/a&gt; (Fall 2014 - Spring 2015): A schedule app for Harvard-Westlake. I&amp;rsquo;m the 2014-15 developer and am almost finished with my AppCompat redesign.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/TheWashingtonRedskins/LivingPlanet&#34;&gt;LivingPlanet&lt;/a&gt; (December 2014): My submission to and a finalist in the 2014 Koding Global Hackathon. A &lt;a href=&#34;https://meteor.com&#34;&gt;Meteor&lt;/a&gt; site built demonstrating issues on our planet. Built with &lt;a href=&#34;https://github.com/paralin&#34;&gt;Christian Stewart&lt;/a&gt;, &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;James Lennon&lt;/a&gt;, &lt;a href=&#34;https://github.com/thesafo&#34;&gt;Jake Saferstein&lt;/a&gt;, &amp;amp; &lt;a href=&#34;https://github.com/dwoldenberg1&#34;&gt;David Woldenberg&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openpad.github.io&#34;&gt;openpad&lt;/a&gt; (Fall 2014): A platform for using Andoid &amp;amp; iOS devices as input devices on C++-capable devices. Built with &lt;a href=&#34;https://github.com/jameslennon321&#34;&gt;@jameslennon321&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/thesafo&#34;&gt;@TheSafo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;HW Java networking projects: &lt;a href=&#34;http://github.com/ethanmad/ChatServer&#34;&gt;ChatServer&lt;/a&gt;, &lt;a href=&#34;https://github.com/ethanmad/HTTPServer&#34;&gt;HTTPServer&lt;/a&gt; (Fall 2014)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/En-Garde&#34;&gt;En Garde&lt;/a&gt; (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/post/HyperTyper&#34;&gt;HyperTyper&lt;/a&gt; (Spring 2014): A typing &amp;ldquo;aid&amp;rdquo; (it&amp;rsquo;s a tool to cheat in games like &lt;a href=&#34;http://typeracer.com&#34;&gt;TypeRacer&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ethanmad.com/coo-mc&#34;&gt;Coo&lt;/a&gt;: A Minecraft escape map I built with &lt;a href=&#34;http://tom.ethanmad.com&#34;&gt;my brother Tommy&lt;/a&gt; some years ago.&lt;/li&gt;
+&lt;li&gt;Anything else on &lt;a href=&#34;https://github.com/ethanmad&#34;&gt;my GitHub&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Current as of 2016-01-30.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

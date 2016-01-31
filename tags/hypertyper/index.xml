@@ -6,7 +6,7 @@
     <description>Recent content in Hypertyper on Ethan Madison</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Ethan Madison 2015</copyright>
+    <copyright>&amp;copy; Ethan Madison 2016</copyright>
     <lastBuildDate>Fri, 01 May 2015 21:04:58 -0800</lastBuildDate>
     <atom:link href="https://www.ethanmad.com/tags/hypertyper/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,8 +18,7 @@
       <guid>https://www.ethanmad.com/post/HyperTyper/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png&#34; alt=&#34;HyperTyper&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;HyperTyper is a tool to help those who can&amp;rsquo;t type compete in typing competitions, like &lt;a href=&#34;http://typeracer.com/&#34; title=&#34;Real-time racing against real people.&#34;&gt;TypeRacer&lt;/a&gt; and &lt;a href=&#34;http://10fastfingers.com/&#34; title=&#34;Testing and competitions with daily leaderboards.&#34;&gt;10FastFingers&lt;/a&gt;.
   I aim to reduce discrimination against non- or transtypers from heterotypers by eliminating the social construct that is the keyboard. Switching layouts or not knowing how to type should not mean you have to repeatedly feel the pain of losing.
